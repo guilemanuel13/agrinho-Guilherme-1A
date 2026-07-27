@@ -13,4 +13,4 @@ texto.textContent--;
 curtiu = false;
 }
 }
-})
+}
